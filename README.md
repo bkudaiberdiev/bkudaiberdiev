@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bektemir Kudaiberdiev</h1>
+<h1 align="center">Bektemir Kudaiberdiev</h1>
 <h3 align="center">A passionate frontend developer with a passion for creating engaging and user-friendly web applications, I have dedicated myself to honing my skills in web development over the past several years</h3>
 
 
